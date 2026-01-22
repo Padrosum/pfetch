@@ -1,3 +1,14 @@
 # Pfetch
 
-Basic fetch cli tools using by Lua
+Lua dili ile yazılmış minimalist bir sistem bilgilendirme (fetch) aracı.
+
+## Kurulum
+1. Bu depoyu klonlayın:
+   git clone https://github.com/padros/pfetch
+2. Dizine gidin:
+   cd pfetch
+3. Çalıştırın:
+   lua pfetch
+
+## Lisans
+Bu yazılım [GPL-3.0](LICENSE) lisansı ile korunmaktadır.
