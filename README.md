@@ -1,6 +1,6 @@
 # Pfetch
 
-Lua dili ile yazılmış minimalist bir sistem bilgilendirme (fetch) aracı.
+Lua dili ile yazılmış minimalist bir sistem bilgilendirme (fetch) aracı. Sadece GNU/Linux'ta çalışmaktadır.
 
 ## Kurulum
 1. Bu depoyu klonlayın:
